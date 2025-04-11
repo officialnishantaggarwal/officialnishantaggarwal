@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">🚀 Senior SDET | Automation Enthusiast | 6+ Years in Test Engineering</h3>
+<h1 align="center">Hi 👋, I'm Nishant Aggarwal</h1>
+<h3 align="center">🚀 SDET-3 | Coding Enthusiast | 6+ Years in Software Engineering</h3>
 
 ---
 
@@ -9,11 +9,11 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working as a **Senior SDET** at [Your Company Name]
+- 🔭 I’m currently working as a **SDET 3** at MAF
 - 🌱 Exploring **Performance Testing**, **Kubernetes**, and **AI in Test Automation**
 - 🧪 Skilled in **Test Automation, Framework Design, CI/CD, API Testing, BDD, TDD**
 - 🤝 I love collaborating with devs and QAs to shift quality left
-- 📫 Reach me at: **[your.email@example.com]**
+- 📫 Reach me at: **nishantagg.sdet@gmail.com**
 - 🌐 Portfolio/Blog: [your-site.com or LinkedIn]
 
 ---
@@ -54,7 +54,7 @@
   <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR.EMAIL@example.com">
+  <a href="mailto:nishantagg.sdet@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
