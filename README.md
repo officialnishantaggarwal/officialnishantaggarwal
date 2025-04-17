@@ -3,18 +3,18 @@
 
 ---
 
-🎯 Passionate about building robust test automation frameworks and driving quality at every stage of the software lifecycle.
+🎯 Passionate about building robust systems at every stage of the software lifecycle.
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working as a **SDET 3** at MAF
+- 🔭 I’m currently working as a **Software Engineer** at MAF
 - 🌱 Exploring **Performance Testing**, **Kubernetes**, and **AI in Test Automation**
 - 🧪 Skilled in **Test Automation, Framework Design, CI/CD, API Testing, BDD, TDD**
 - 🤝 I love collaborating with devs and QAs to shift quality left
 - 📫 Reach me at: **nishantagg.sdet@gmail.com**
-- 🌐 Portfolio/Blog: [your-site.com or LinkedIn]
+- 🌐 Portfolio/Blog: [https://www.linkedin.com/in/nishant165/]
 
 ---
 
