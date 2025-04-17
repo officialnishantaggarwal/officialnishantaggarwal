@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nishant Aggarwal</h1>
-<h3 align="center">🚀 Software Engineer | Coding Enthusiast | 6+ Years in Software Engineering</h3>
+<h3 align="center">🚀 Software Engineer | Coding Enthusiast | 6 Years in Software Engineering</h3>
 
 ---
 
