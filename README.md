@@ -12,7 +12,7 @@
 - 🔭 I’m currently working as a **Software Engineer** at MAF
 - 🧪 Skilled in **Spring Boot, CI/CD
 - 🤝 I love collaborating with devs and QAs to shift quality left
-- 📫 Reach me at: **nishant1995aggarwal@gmail.com**
+- 📫 Reach me at: **nishant1995personal@gmail.com**
 - 🌐 Portfolio/Blog: [https://www.linkedin.com/in/nishant165/]
 
 ---
