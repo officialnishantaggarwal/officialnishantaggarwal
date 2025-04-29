@@ -10,10 +10,9 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working as a **Software Engineer** at MAF
-- 🌱 Exploring **Performance Testing**, **Kubernetes**, and **AI in Test Automation**
-- 🧪 Skilled in **Test Automation, Framework Design, CI/CD, API Testing, BDD, TDD**
+- 🧪 Skilled in **Spring Boot, CI/CD
 - 🤝 I love collaborating with devs and QAs to shift quality left
-- 📫 Reach me at: **nishantagg.sdet@gmail.com**
+- 📫 Reach me at: **nishant1995aggarwal@gmail.com**
 - 🌐 Portfolio/Blog: [https://www.linkedin.com/in/nishant165/]
 
 ---
