@@ -10,7 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🔭 I’m currently working as a **Software Engineer** at MAF
-- 🧪 Skilled in **Spring Boot, CI/CD
+- 🧪 Skilled in **Spring Boot, Hibernate**
 - 🤝 I love collaborating with devs and QAs to shift quality left
 - 📫 Reach me at: **nishant1995personal@gmail.com**
 - 🌐 Portfolio/Blog: [https://www.linkedin.com/in/nishant165/]
