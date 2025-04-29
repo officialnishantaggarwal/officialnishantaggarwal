@@ -20,21 +20,28 @@
 ### 🛠️ Tools & Technologies I Use
 
 #### ✅ Languages & Frameworks:
-- Java, Python, JavaScript
-- Selenium, Cypress, Playwright
-- RestAssured, Postman, Karate
-- JUnit, TestNG, PyTest
+- Java (8+), JavaScript
+- Spring Boot, Spring Security, Hibernate, JPA
+- Postman, Swagger (OpenAPI)
+
+#### 🗄️ Databases:
+- MySQL, PostgreSQL, MongoDB, Redis
+- MongoDB Atlas, Amazon RDS
+- JDBC, JPA, Hibernate
 
 #### ⚙️ DevOps & CI/CD:
-- Jenkins, GitHub Actions, Docker, Azure DevOps
-- Maven, Gradle, Git, GitLab CI
+- Jenkins, Docker, Kubernetes
+- Maven, Git
 
 #### ☁️ Cloud & Monitoring:
-- AWS (basic services), ELK, Grafana, Azure
+- AWS (EC2, S3, EKS), ELK Stack, Prometheus, Grafana
+
+#### 🔗 Messaging & Communication:
+- Apache Kafka
+- WebSockets (STOMP)
 
 #### 🧩 Methodologies:
-- Agile, Scrum, Kanban
-- TDD, BDD, Shift-Left Testing
+- Agile, Scrum
 
 ---
 
